@@ -1,0 +1,2 @@
+D:/Freelance/Flutter Mini Projects/excuse_generator/excuse_generator/android/app/.cxx/Debug/u1p2q42d/x86/CMakeFiles/edit_cache.dir
+D:/Freelance/Flutter Mini Projects/excuse_generator/excuse_generator/android/app/.cxx/Debug/u1p2q42d/x86/CMakeFiles/rebuild_cache.dir
